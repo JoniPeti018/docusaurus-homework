@@ -6,11 +6,11 @@ sidebar_position: 2
 
 # SmartHome Control System Configuration Tips
 
-Optimize your SmartHome Control System setup with these configuration tips:
+Optimize your **SmartHome Control System setup** with these configuration tips:
 
 ## 1. Environment Variables
 
-Proper configuration of environment variables is key to ensuring your SmartHome Control System operates smoothly. Here's how to set them up:
+Proper configuration of environment variables is key to ensuring your **SmartHome Control System** operates smoothly. Here's how to set them up:
 
 * **API_KEYS**: Store API keys for third-party integrations (e.g., weather services, IoT devices).
 
@@ -76,4 +76,4 @@ Maximize your system's capabilities with these advanced settings:
       - thermostat.set_temp(22)
   ```
 
-By applying these configurations, you can ensure that your SmartHome Control System operates efficiently and provides a seamless, user-friendly experience.
+By applying these configurations, you can ensure that your **SmartHome Control System** operates efficiently and provides a seamless, **user-friendly** experience.
