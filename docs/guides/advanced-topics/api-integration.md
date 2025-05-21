@@ -1,6 +1,6 @@
 ---
 title: API Integration Guide
-slug: /api-integration
+slug: api-integration
 sidebar_position: 1
 ---
 

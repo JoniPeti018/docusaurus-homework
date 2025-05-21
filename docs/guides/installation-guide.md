@@ -1,6 +1,6 @@
 ---
 title: Installation Guide
-slug: /installation-guide
+slug: installation-guide
 sidebar_position: 1
 ---
 

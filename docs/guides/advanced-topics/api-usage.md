@@ -1,6 +1,6 @@
 ---
 title: API Usage Documentation
-slug: /api-usage
+slug: api-usage
 sidebar_position: 2
 ---
 
