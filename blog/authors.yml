@@ -8,6 +8,15 @@ yangshun:
     x: yangshunz
     github: yangshun
 
+jonaspeter:
+  name: Jónás Péter
+  title: Developer
+  url: https://github.com/JoniPeti018
+  image_url: https://github.com/jonipeti018.png
+  page: true
+  socials:
+    github: jonipeti018
+
 slorber:
   name: Sébastien Lorber
   title: Docusaurus maintainer
